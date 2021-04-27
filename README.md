@@ -9,6 +9,6 @@ Project made using the Laravel framework.
 
 <p align="center">
 <a href="https://github.com/LinguisticMystic/currency-converter/blob/master/screenshots/currency-converter.png" target="_blank">
-<img src="https://github.com/LinguisticMystic/currency-converter/blob/master/screenshots/currency-converter.png" width="500">
+<img src="https://github.com/LinguisticMystic/currency-converter/raw/main/screenshots/currency-converter.png" width="500">
 </a>
 </p>

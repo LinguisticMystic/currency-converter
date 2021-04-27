@@ -8,7 +8,7 @@ the refresh button on the page or via the Artisan command `currency:getrate`.
 Project made using the Laravel framework.
 
 <p align="center">
-<a href="https://github.com/LinguisticMystic/currency-converted/blob/master/screenshots/currency-converter.png" target="_blank">
-<img src="https://github.com/LinguisticMystic/currency-converted/blob/master/screenshots/currency-converter.png" width="500">
+<a href="https://github.com/LinguisticMystic/currency-converter/blob/master/screenshots/currency-converter.png" target="_blank">
+<img src="https://github.com/LinguisticMystic/currency-converter/blob/master/screenshots/currency-converter.png" width="500">
 </a>
 </p>
